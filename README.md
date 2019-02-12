@@ -1,4 +1,4 @@
-# HackX 
+# HackX [techbench.team/hackx]
 This repo is for HackX's landing page, it includes the following info:
 1. About
 2. Schedule
