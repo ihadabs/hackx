@@ -8,3 +8,4 @@ This repo is for HackX's landing page, it includes the following info:
 5. Footer(Social Media Accounts)
 
 **Inspired From hackru.org**
+Available @ https://ihadabs.github.io/hackx/
